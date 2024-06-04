@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to my blog :smile:
 ---
-
+# This is my heading
+This is my homepage 👍
